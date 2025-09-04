@@ -2,6 +2,8 @@
 
 Essential links for the project:
 
+This is a very small change!
+
 :books: [Documentation](./docs/readme.md)<br/>
 :writing_hand: [Release Notes](./CHANGELOG.md)<br/>
 :heart_on_fire: [Contributing Guidelines](https://github.com/splunk-platform-apps/.github/.github/CONTRIBUTING.md)<br/>
